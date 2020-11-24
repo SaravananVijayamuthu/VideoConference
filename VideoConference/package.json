@@ -7,10 +7,7 @@
     "start": "twilio-run",
     "deploy": "twilio-run deploy"
   },
-  "dependencies": {
-    "axios": "^0.21.0",
-    "twilio-video": "^2.7.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "twilio-run": "^2.6.0"
   },
